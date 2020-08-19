@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Temp_C</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="celcius_to_fahrenheit">Celcius to fahrenheit</string>
+    <string name="celcius_to_kelvin">Celcius to kelvin</string>
+    <string name="fahrenheit_to_celcius">Fahrenheit to celcius</string>
+    <string name="kelvin_to_fahrenheit">Kelvin to fahrenheit</string>
+    <string name="kelvin_to_celcius">Kelvin to celcius</string>
+    <string name="its_just_a_temperature_converter">Its just a temperature converter!</string>
+    <string name="result">RESULT</string>
+</resources>
